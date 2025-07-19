@@ -5,13 +5,13 @@
 
 <a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/></a>
 
-- [cite_start]🔭 I'm currently working as a **Data Annotation Manager** at **Appalux Global IT** [cite: 11, 12][cite_start], where I manage large-scale annotation pipelines for Computer Vision, NLP, and Multimodal AI projects[cite: 19].
+- 🔭 I'm currently working as a **Data Annotation Manager** at **Appalux Global IT**, where I manage large-scale annotation pipelines for Computer Vision, NLP, and Multimodal AI projects. [cite: 11, 12, 19]
 
-- [cite_start]🌱 I’m currently learning **javascript, react** and deepening my expertise in MLOps ecosystems[cite: 8].
+- [cite_start]🌱 I’m currently learning **javascript, react** and deepening my expertise in MLOps ecosystems. [cite: 8]
 
-- [cite_start]💬 Ask me about **html, css, bootstrap, tailwind, javascript** and also about **data annotation, SFT, RLHF, QA/QC pipelines, and AI project management**[cite: 8, 19].
+- [cite_start]💬 Ask me about **html, css, bootstrap, tailwind, javascript** and also about **data annotation, SFT, RLHF, QA/QC pipelines, and AI project management**. [cite: 8, 19]
 
-- [cite_start]📫 How to reach me: **asifikbalprotik@gmail.com**[cite: 3].
+- [cite_start]📫 How to reach me: **asifikbalprotik@gmail.com**. [cite: 3]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
