@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Asif Ikbal</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A full-time AI Project Manager with a passion for code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ikbal-protik&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ikbal-protik" /> </p>
 
-<a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/></a>
+<p align="center">
+  <a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/></a>
+</p>
 
-- 🔭 I'm currently working as a **Data Annotation Manager** at **Appalux Global IT**, where I manage large-scale annotation pipelines for Computer Vision, NLP, and Multimodal AI projects.
+<br>
 
-- 🌱 I’m currently learning **javascript, react** and deepening my expertise in MLOps ecosystems.
+As a certified Project Manager with a background in Computer Science and Engineering, I specialize in leading complex AI and data annotation projects from concept to delivery. My experience as a coder in Python, JavaScript, and SQL gives me the technical depth to effectively manage engineering teams, structure efficient workflows, and ensure high-quality outcomes.
 
-- 💬 Ask me about **html, css, bootstrap, tailwind, javascript** and also about **data annotation, SFT, RLHF, QA/QC pipelines, and AI project management**.
-
-- 📫 How to reach me: **asifikbalprotik@gmail.com**.
+- 🔭 **As a full-time manager**, I'm currently leading large-scale data annotation pipelines for computer vision and NLP at Appalux Global IT.
+- 💻 **As a part-time coder**, I enjoy working on personal projects and scripts that automate tasks, leveraging my skills in Python and SQL.
+- 🌱 I'm always focused on improving cross-functional collaboration and monitoring key metrics to drive model performance uplift.
+- 💬 Ask me about **Agile methodologies, client engagement, data annotation pipelines, Python, and SQL**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://wwasif-iqbal-4627aa21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://wwasif-iqbal-4627aa21b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sheikhprotik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sheikhprotik" height="30" width="40" /></a>
-<a href="https://fb.com/im.protik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="im.protik" height="30" width="40" /></a>
-<a href="https://instagram.com/ll.protik.ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll.protik.ll" height="30" width="40" /></a>
-<a href="https://dev.to/sheikhprotik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sheikhprotik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asif-ikbal-protik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://github.com/asif-ikbal-protik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="asif-ikbal-protik" height="30" width="40" /></a>
+<a href="mailto:asifikbalprotik@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="asifikbalprotik@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,26 +45,36 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Technical Strengths</h3>
 <p align="left">
-    <strong>Annotation Tools:</strong> Supervisely, Encord, SuperbAI, SuperAnnotate, V7, Roboflow, CVAT <br>
-    <strong>Project Management:</strong> Agile, Scrum, ClickUp, Asana, Trello <br>
-    <strong>Cloud Platforms:</strong> AWS, GCP, Azure
+    <strong>Project & Delivery Management:</strong> Agile methodologies (Scrum), Workflow Design, QA/QC Pipelines, Client Engagement, Team Leadership, SLA Compliance<br>
+    <strong>Project Management Tools:</strong> ClickUp, Asana, Trello<br>
+    <strong>Coding & Technical Skills:</strong> Python, JavaScript, SQL, Git/GitHub, Cloud Platforms (AWS, GCP, Azure), Technical Documentation<br>
+    <strong>Data Annotation Tools:</strong> CVAT, Label Studio, Supervisely, Encord, V7, Roboflow
 </p>
 
-<h3 align="left">Key AI Annotation Projects</h3>
+<h3 align="left">Key Managed Projects</h3>
+<p>As a manager, I have overseen the successful delivery of several key AI annotation projects, including:</p>
 <ul>
     <li>3D Point Cloud Segmentation for Autonomous Navigation</li>
-    <li>Multimodal Sentiment and Intent Classification for the Banking Sector</li>
     <li>Reinforcement Learning with Human Feedback (RLHF) for Chatbot Optimization</li>
+    <li>Multimodal Sentiment and Intent Classification for the Banking Sector</li>
     <li>Synthetic Dataset Curation for Multilingual LLM Training</li>
     <li>Adversarial Prompt Evaluation for Generative AI Safety</li>
-    <li>Defect Detection for Aerial Vehicles</li>
-    <li>Naval Ship Docking Automation Visual Tracking</li>
+</ul>
+
+<h3 align="left">Achievements</h3>
+<ul>
+    <li>Awarded <strong>Employee of the Month</strong> at Quantigo AI</li>
+    <li>Recognized as a <strong>Super Star</strong> at Quantanite</li>
+    <li>Received the <strong>Above & Beyond</strong> award at Quantanite</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-ikbal-protik&show_icons=true&locale=en&layout=compact" width="400" height="300" alt="asif-ikbal-protik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif-ikbal-protik&show_icons=true&locale=en" width="400" height="300" alt="asif-ikbal-protik" /></p>
+<br>
+
 <br>
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.png" alt="Built With Love">
