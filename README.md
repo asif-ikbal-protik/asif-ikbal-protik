@@ -5,13 +5,13 @@
 
 <a href="https://app.daily.dev/improtik"><img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/></a>
 
-- 🔭 I'm currently working as a **Data Annotation Manager** at **Appalux Global IT**, where I manage large-scale annotation pipelines for Computer Vision, NLP, and Multimodal AI projects. [cite: 11, 12, 19]
+- 🔭 I'm currently working as a **Data Annotation Manager** at **Appalux Global IT**, where I manage large-scale annotation pipelines for Computer Vision, NLP, and Multimodal AI projects.
 
-- [cite_start]🌱 I’m currently learning **javascript, react** and deepening my expertise in MLOps ecosystems. [cite: 8]
+- 🌱 I’m currently learning **javascript, react** and deepening my expertise in MLOps ecosystems.
 
-- [cite_start]💬 Ask me about **html, css, bootstrap, tailwind, javascript** and also about **data annotation, SFT, RLHF, QA/QC pipelines, and AI project management**. [cite: 8, 19]
+- 💬 Ask me about **html, css, bootstrap, tailwind, javascript** and also about **data annotation, SFT, RLHF, QA/QC pipelines, and AI project management**.
 
-- [cite_start]📫 How to reach me: **asifikbalprotik@gmail.com**. [cite: 3]
+- 📫 How to reach me: **asifikbalprotik@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,20 +45,20 @@
 </p>
 
 <p align="left">
-    [cite_start]<strong>Annotation Tools:</strong> Supervisely, Encord, SuperbAI, SuperAnnotate, V7, Roboflow, CVAT [cite: 79] <br>
-    [cite_start]<strong>Project Management:</strong> Agile, Scrum, ClickUp, Asana, Trello [cite: 77, 78] <br>
-    [cite_start]<strong>Cloud Platforms:</strong> AWS, GCP, Azure [cite: 84]
+    <strong>Annotation Tools:</strong> Supervisely, Encord, SuperbAI, SuperAnnotate, V7, Roboflow, CVAT <br>
+    <strong>Project Management:</strong> Agile, Scrum, ClickUp, Asana, Trello <br>
+    <strong>Cloud Platforms:</strong> AWS, GCP, Azure
 </p>
 
 <h3 align="left">Key AI Annotation Projects</h3>
 <ul>
-    [cite_start]<li>3D Point Cloud Segmentation for Autonomous Navigation [cite: 68]</li>
-    [cite_start]<li>Multimodal Sentiment and Intent Classification for the Banking Sector [cite: 70]</li>
-    [cite_start]<li>Reinforcement Learning with Human Feedback (RLHF) for Chatbot Optimization [cite: 71]</li>
-    [cite_start]<li>Synthetic Dataset Curation for Multilingual LLM Training [cite: 72]</li>
-    [cite_start]<li>Adversarial Prompt Evaluation for Generative AI Safety [cite: 73]</li>
-    [cite_start]<li>Defect Detection for Aerial Vehicles [cite: 74]</li>
-    [cite_start]<li>Naval Ship Docking Automation Visual Tracking [cite: 75]</li>
+    <li>3D Point Cloud Segmentation for Autonomous Navigation</li>
+    <li>Multimodal Sentiment and Intent Classification for the Banking Sector</li>
+    <li>Reinforcement Learning with Human Feedback (RLHF) for Chatbot Optimization</li>
+    <li>Synthetic Dataset Curation for Multilingual LLM Training</li>
+    <li>Adversarial Prompt Evaluation for Generative AI Safety</li>
+    <li>Defect Detection for Aerial Vehicles</li>
+    <li>Naval Ship Docking Automation Visual Tracking</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif-ikbal-protik&show_icons=true&locale=en&layout=compact" width="400" height="300" alt="asif-ikbal-protik" /></p>
