@@ -20,6 +20,10 @@
   </div>
 </div>
 
+<p align="center">
+  <a href="https://app.daily.dev/protik"><img src="https://api.daily.dev/devcards/v2/QqfrEd4AqJYUv60L7VBHk.png?r=swc&type=wide" width="652" alt="Asif Ikbal's Dev Card"/></a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -39,12 +43,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://app.daily.dev/improtik">
-    <img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/>
-  </a>
-</p>
 
 ---
 
