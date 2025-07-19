@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <a href="https://app.daily.dev/protik"><img src="https://api.daily.dev/devcards/v2/QqfrEd4AqJYUv60L7VBHk.png?r=swc&type=wide" width="652" alt="Asif Ikbal's Dev Card"/></a>
+  <a href="https://app.daily.dev/protik"><img src="https://api.daily.dev/devcards/v2/QqfrEd4AqJYUv60L7VBHk.png?type=default&r=iw7" width="356" alt="Asif Ikbal's Dev Card"/></a>
 </p>
 
 ---
