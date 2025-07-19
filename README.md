@@ -27,21 +27,24 @@
 <table>
   <tr>
     <td>
-      As a certified Project Manager with a B.Sc. in Computer Science and Engineering, I bring a unique blend of technical expertise and management skill. My passion for frontend development complements my full-time role leading complex AI projects, allowing me to bridge the gap between engineering teams and project goals.
+      As a certified Project Manager with a background in Computer Science and Engineering, I specialize in leading complex AI and data annotation projects from concept to delivery. My experience as a coder in Python, JavaScript, and SQL gives me the technical depth to effectively manage engineering teams, structure efficient workflows, and ensure high-quality outcomes.
       <br><br>
-      - 🔭 **As a manager**, I'm leading large-scale data annotation pipelines for CV & NLP.
+      - 🔭 **As a full-time manager**, I'm currently leading large-scale data annotation pipelines for computer vision and NLP at Appalux Global IT.
       <br>
-      - 🌱 **As a developer**, I'm currently learning and building projects with JavaScript and React.
+      - 💻 **As a part-time coder**, I enjoy working on personal projects and scripts that automate tasks, leveraging my skills in Python and SQL.
       <br>
-      - 💬 **Ask me about** project management, data annotation, or frontend technologies!
-    </td>
-    <td>
-      <a href="https://app.daily.dev/improtik">
-        <img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/>
-      </a>
+      - 🌱 I'm always focused on improving cross-functional collaboration and monitoring key metrics to drive model performance uplift.
+      <br>
+      - 💬 Ask me about **Agile methodologies, workflow automation, generative ai, client engagement, data annotation pipelines, Python, and SQL**.
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://app.daily.dev/improtik">
+    <img src="https://api.daily.dev/devcards/bcb69db389ba4f72a25b5dbdbcf80be0.png?r=r3l" width="300" alt="Asif Ikbal's Dev Card"/>
+  </a>
+</p>
 
 ---
 
